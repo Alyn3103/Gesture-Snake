@@ -1,22 +1,23 @@
-Snake Game with Computer Vision
-Overview
-This project implements a classic Snake Game using computer vision techniques with Python, MediaPipe, and OpenCV. The game is controlled by hand gestures, allowing players to navigate the snake on the screen.
+Snake Game with Computer Vision: <br />
+Overview <br />
+This project implements a classic Snake Game using computer vision techniques with Python, MediaPipe, and OpenCV. The game is controlled by hand gestures, allowing players to navigate the snake on the screen. <br />
 
-Features
-Hand tracking using MediaPipe's Hand module.
-Snake movement controlled by hand gestures.
-Simple and intuitive gameplay.
-Dependencies
-Python 3.x
-OpenCV
-MediaPipe
+Features: <br />
+Hand tracking using MediaPipe's Hand module.<br />
+Snake movement controlled by hand gestures. <br />
+Simple and intuitive gameplay.<br /> 
 
-Setup Instructions
-Clone the repository
-Install dependencies
-Run the game
+Dependencies:  <br />
+Python 3.x<br />
+OpenCV<br />
+MediaPipe<br />
 
-Usage
+Setup Instructions<br />
+Clone the repository<br />
+Install dependencies<br />
+Run the game<br />
+
+Usage:
 Ensure good lighting conditions for accurate hand tracking.
 Hold your hand in front of the camera and move it to control the snake's direction.
 Avoid collisions with the snake's body and borders to survive and score points.
