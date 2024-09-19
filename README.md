@@ -1,4 +1,4 @@
-**Swipe Serpent- A Snake game using Computer Vision**: <br />'
+**Gesture Snake- A Snake game using Computer Vision**: <br />'
 **Overview** <br />
 This project implements a classic Snake Game using computer vision techniques with Python, MediaPipe, and OpenCV. The game is controlled by hand gestures, allowing players to navigate the snake on the screen. <br />
 
